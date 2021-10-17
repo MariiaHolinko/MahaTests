@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--my first xml file-->
+<me>
+	<name>Mariia</name>
+	<surname>Holinko</surname>
+	<age>38</age>
+	<animals>0</animals>
+	<salary>1000</salary>
+</me>
+
