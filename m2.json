@@ -4,4 +4,9 @@
 	"age": 38,
 	"animals": 0,
 	"salary": 1000
+	"favorite movie": "The Moulin Rouge",
+	"favorite series": "Сharmed",
+	"favorite food": "pizza",
+	"favorite season": "spring",
+	"favorite country": "Canada"
 }
